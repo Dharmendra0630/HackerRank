@@ -22,6 +22,6 @@ public class Solution1 {
 			ans = "2nd not wierd";
 		}
 		System.out.println(ans);
-
+	
 	}
 }
