@@ -8,6 +8,8 @@ import java.util.regex.*;
 public class Solution {
 
     public static void main(String[] args) {
+        
+        system.out.println("Git commit...");
         Scanner in = new Scanner(System.in);
         int a = 0;
         System.out.println("enter the value 2");
